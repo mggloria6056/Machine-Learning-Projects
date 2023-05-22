@@ -1,0 +1,7 @@
+requests
+sklearn-pandas==2.2.0
+tensorflow
+keras
+opencv-python
+flask
+Pillow
